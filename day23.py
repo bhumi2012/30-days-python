@@ -1,0 +1,3 @@
+# do this in terminal
+
+

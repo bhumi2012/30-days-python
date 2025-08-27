@@ -1,0 +1,8 @@
+id,title,url,points,author,num_comments
+1,Python 3.12 Released,https://python.org,120,guido,45
+2,JavaScript ES2023 Features,https://developer.mozilla.org,95,brendan,30
+3,Why I love Python for Data Science,https://towardsdatascience.com,80,alice,22
+4,10 Tips for JavaScript Developers,https://medium.com,70,bob,15
+5,The Future of AI and Python,https://ai.google,150,carol,55
+6,Rust vs Go vs Python,https://reddit.com,65,dave,18
+7,Learning JavaScript in 2025,https://freecodecamp.org,85,eve,20

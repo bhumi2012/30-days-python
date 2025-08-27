@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "languages": ["Pashto", "Uzbek", "Turkmen"],
+    "population": 27657145
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "languages": ["Albanian"],
+    "population": 2886026
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "languages": ["Arabic"],
+    "population": 40400000
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "languages": ["Catalan"],
+    "population": 78014
+  },
+  {
+    "name": "Angola",
+    "capital": "Luanda",
+    "languages": ["Portuguese"],
+    "population": 25868000
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "languages": ["Spanish", "Guarani"],
+    "population": 43590400
+  },
+  {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "languages": ["Armenian", "Russian"],
+    "population": 2994400
+  }
+]

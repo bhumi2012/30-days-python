@@ -1,0 +1,29 @@
+From: alice@example.com
+To: bob.smith@workmail.org
+Subject: Meeting Reminder
+
+Hi Bob,
+Just a reminder that we have a meeting scheduled for tomorrow at 10 AM.
+Thanks,
+Alice
+
+
+From: carol.jones@university.edu
+To: research_team@lab.org
+Subject: Paper Submission
+
+Dear Team,
+Please make sure to submit your paper drafts by Friday.
+Best,
+Carol
+
+
+
+From: david1990@gmail.com
+To: alice@example.com, bob.smith@workmail.org
+Subject: Weekend Plan
+
+Hey friends,
+Are we still on for the hiking trip this weekend?
+Cheers,
+David

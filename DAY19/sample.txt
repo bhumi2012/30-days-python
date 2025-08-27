@@ -1,0 +1,5 @@
+A "sample text" is a generic placeholder text used in design,
+ publishing, and testing to demonstrate how a document or layout will appear 
+ with content. It is often used when the final, actual text is not yet available
+ , allowing designers to focus on visual elements without being distracted
+  by meaningful conten
